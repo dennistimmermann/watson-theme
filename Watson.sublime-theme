@@ -10,7 +10,7 @@
         "layer0.texture": "Theme - Watson/images/tabset-background.png",
         "layer0.inner_margin": [0, 0],
         "layer0.opacity": 1.0,
-        "content_margin": [-8, 0, -8, 0],
+        "content_margin": [-7, 0, -7, 0],
         "tab_overlap": 10,
         "tab_width": 200,
         "tab_min_width": 45,
@@ -503,8 +503,8 @@
         "class": "sidebar_container",
         "layer0.texture": "Theme - Watson/images/sidebar-bg.png",
         "layer0.opacity": 1.0,
-        "layer0.inner_margin": [2, 30, 35, 0],
-        "content_margin": [0, 9, 0, 0]
+        "layer0.inner_margin": [1, 30, 30, 1],
+        "content_margin": [0, 5, 0, 0]
     },
     // Sidebar tree
     {
@@ -545,7 +545,7 @@
     // Sidebar entry
     {
         "class": "sidebar_label",
-        "color": [117, 120, 125],
+        "color": [147, 160, 165],
         "shadow_color": [0, 0, 0],
         "shadow_offset": [0, 1],
         "font.bold": false,
