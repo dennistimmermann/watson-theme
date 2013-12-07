@@ -1,4 +1,8 @@
-watson-theme
-============
+Watson Theme
+==================
 
-Sublime Text 3 Theme based on the OSX UI - work in progress
+work in progress
+
+![Watson Theme](http://i.imgur.com/mnPWEwc.png "Watson Theme")
+
+Based on Soda Theme by Ian Hill (http://buymeasoda.com/)
