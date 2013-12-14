@@ -1,5 +1,4 @@
 [
-
 //
 // TABS (REGULAR)
 //
@@ -8,7 +7,7 @@
     {
         "class": "tabset_control",
         "layer0.texture": "Theme - Watson/images/tabset-background.png",
-        "layer0.inner_margin": [0, 0],
+        "layer0.inner_margin": [0, 12, 0, 4],
         "layer0.opacity": 1.0,
         "content_margin": [-7, 0, -7, 0],
         "tab_overlap": 10,
@@ -96,7 +95,8 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control", "attributes": ["dirty"]}],
-        "layer0.texture": "Theme - Watson/images/tab-dirty-inactive.png"
+        "layer0.texture": "Theme - Watson/images/tab-dirty-inactive.png",
+        "layer0.opacity": 0.8
     },
     {
         "class": "tab_close_button",
@@ -859,18 +859,20 @@
 
     {
         "class": "popup_control",
-        "content_margin": [0, 0],
+        "content_margin": [0, 5],
         "layer0.tint": [40, 43, 48],
         "layer0.opacity": 1.0
     },
     {
         "class": "auto_complete",
-        "row_padding": [5, 3]
+        "row_padding": [6, 3]
     },
     {
         "class": "auto_complete_label",
         "fg": [147, 160, 165],
         "match_fg": [60, 163, 128],
+        // "match_fg": [255, 127, 102],
+        // "match_fg": [255, 253, 243],
         "selected_fg": [120, 123, 128],
         "selected_match_fg": [10, 10, 10]
     },
