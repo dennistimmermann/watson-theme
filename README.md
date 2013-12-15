@@ -8,6 +8,9 @@ Custom UI theme for Sublime Text 3
 
 ## Installation
 
+## Using Package Control
+If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Watson Theme via the `Package Control: Install Package` menu item. It is listed as `Theme - Watson` in the packages list.
+
 ### Using Git
 
 Clone the repo directly into your `Packages` directory and name the folder `Theme - Watson`
