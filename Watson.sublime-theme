@@ -11,7 +11,7 @@
         "layer0.opacity": 1.0,
         "content_margin": [-7, 0, -7, 0],
         "tab_overlap": 10,
-        "tab_width": 200,
+        "tab_width": 160,
         "tab_min_width": 45,
         "tab_height": 32,
         "mouse_wheel_switch": true
@@ -19,7 +19,7 @@
     {
         "class": "tabset_control",
         "settings": ["enable_tab_scrolling"],
-        "content_margin": [1, 0, 1, 3]
+        "content_margin": [1, 0, 1, 0]
     },
     {
         "class": "tabset_control",
