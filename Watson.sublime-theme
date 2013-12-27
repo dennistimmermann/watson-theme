@@ -520,7 +520,7 @@
         "class": "tree_row",
         "layer0.texture": "Theme - Watson/images/sidebar-row-selected.png",
         "layer0.opacity": 0.0,
-        "layer0.inner_margin": [0, 4, 20, 1],
+        "layer0.inner_margin": [0, 4, 20, 1]
     },
     // Sidebar row selected
     {
@@ -550,7 +550,7 @@
         "shadow_offset": [0, 1],
         "font.bold": false,
         "font.italic": false,
-        "font.size": 10.0,
+        "font.size": 10.0
         //"font.face":"Lucida Sans",
     },
     // Sidebar folder entry
